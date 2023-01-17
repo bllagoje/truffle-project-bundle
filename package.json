@@ -1,0 +1,22 @@
+{
+  "name": "truffle",
+  "version": "1.0.0",
+  "description": "Preconfigured Truffle project with simple Solidity contract, test and deployment script",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.16"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1",
+    "@truffle/hdwallet-provider": "^2.1.5",
+    "chai": "^4.3.7",
+    "eth-gas-reporter": "^0.2.25",
+    "solidity-coverage": "^0.8.2",
+    "truffle": "^5.7.3",
+    "truffle-plugin-verify": "^0.6.1",
+    "web3": "^1.8.1"
+  }
+}
